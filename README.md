@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://user-images.githubusercontent.com/64218936/151037141-a6ff4568-dfe3-4550-9a41-2f033dbc1cb2.png) [UpWork Profile](https://www.upwork.com/freelancers/~0184fe63f9f8a3cdf3?wom=gfbli&crid=29219269) 
+
 <!--
 **mcaninci/mcaninci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
